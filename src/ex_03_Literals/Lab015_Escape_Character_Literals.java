@@ -14,7 +14,7 @@ public class Lab015_Escape_Character_Literals {
         char carriage_return = '\r';
 
         System.out.println("NageswaraRao\bDanne");
-        System.out.println("NageswaraRao"+new_tab+"Danne");
+        System.out.println("NageswaraRao"+new_tab +"Danne");
         System.out.println("NageswaraRao\nDanne");
         System.out.println("NageswaraRao\tDanne");
         System.out.println("NageswaraRao\rDanne");
